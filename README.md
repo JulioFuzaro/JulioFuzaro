@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello! and welcome to my Github profile
+## My name is Júlio Fuzaro Zamaro
 
 <!--
 **JulioFuzaro/JulioFuzaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
