@@ -1,4 +1,4 @@
-## Hello! and welcome to my Github profile
+# Hello! and welcome to my Github profile
 ## My name is Júlio Fuzaro Zamaro
 
 <!--
